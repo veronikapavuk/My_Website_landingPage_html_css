@@ -1,0 +1,147 @@
+body {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: black;
+    width: 1340px;
+    margin: 0 auto;
+    visibility: hidden;
+}
+h5 {
+    background-color: #ffff00;
+    text-align: center;
+    height: 30px;
+    padding: 20px 0px 15px;
+    margin: 0px;
+}
+.div-h1 {
+    background-color: #1abc9c;
+    color: #fff;
+    text-align: center;
+    height: 150px;
+    padding: 50px;
+    margin: 0px;
+}
+.div-nav {
+    background-color: #333333;
+    padding: 10px;
+}
+.div-nav a {
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.div-nav a:hover {
+    background-color:antiquewhite;
+    color: black;
+    padding: 10px 20px;
+}
+.img1 {
+    background-size: cover;
+    height: 200px;
+    width: 400px;
+    margin: 5px;
+}
+.img2 {
+    display: flex;
+    background-color: greenyellow;
+    height: 50px;
+    width: 400px;
+    margin: 10px;
+} 
+.laim:hover {
+    transition: all 1s ease;
+    transform: translate(350px, 0) rotate(360deg);
+}
+.img3 {
+    display: flex;
+    background-color: rgb(252, 252, 73);
+    height: 50px;
+    width: 400px;
+    margin: 10px;
+}
+.lemon:hover {
+    transition: all 2s ease;
+    transform: translate(350px, 0) rotateZ(360deg);
+}
+.img4 {
+    display: flex;
+    background-color: orange;
+    height: 50px;
+    width: 400px;
+    margin: 10px;
+}
+.orange:hover {
+    transition: all 3s ease;
+    transform:  translate(350px, 0) rotate(360deg);
+}
+.main-div {
+    display: flex;
+}
+.contain1 {
+    display: flex;
+    flex-direction: column;
+    background-color: #eeeded;
+    padding: 5px;
+}
+.contain2 {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+.img5 {
+    display: flex;
+    justify-content: center;
+    /* background-color:#1abc9c; */
+    background-image: url(./323443553_712791240352226_8894893960606329210_n.png);
+    background-size: auto;
+    opacity: 90%;
+    height: 200px;
+    width: 880px;
+    margin: 10px; 
+}
+.logo:hover {  
+    transition: all 1s ease;
+    transform:rotateY(90deg);
+} 
+.img6 {
+    display: flex;
+    /* background-color: #8D8D8D; */
+    background-image: url(./FantaColorful-1920x850\ \(002\).jpg);
+    background-size: contain;
+    height: 200px;
+    width: 880px;
+    margin: 10px;
+}
+.div-footer {
+    text-align: center;
+    background-color: #cfc4c4
+}
+.item-footer {
+    height: 50px;
+    padding: 3px;
+}
+.item-footer2 {
+    height: 200px;
+    background: rgb(54,53,53);
+    background: radial-gradient(circle, rgba(54,53,53,0.9976365546218487) 0%, rgba(0,0,0,1) 100%);
+    color: #fff;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin: 15px;
+    padding: 150px 530px;
+    text-align: end;
+}
+.p1 {
+    margin-bottom: 15px;
+}
+.p2 {
+    text-align: start;
+    line-height: 0px; 
+    letter-spacing: 0;
+    padding-left: 30px;
+    margin-top: 10px;
+}
+.p3 {
+     line-height: 0px; 
+}

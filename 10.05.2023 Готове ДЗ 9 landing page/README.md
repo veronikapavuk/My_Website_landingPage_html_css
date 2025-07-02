@@ -13,7 +13,7 @@ A practice project focused on building a single-page layout with section-based s
 📁 **Project Structure:**
 
 - `index.html` — main page  
-- `page1.html`  
+- `page1.html` - secondary page
 - `style.css` — styles  
 - `image.png` — multiple image files  
 - `README.md` — project description  
